@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 import org.junit.jupiter.api.Test;
 
-class TestKingdomsWon {
+class KingdomsWonTest {
 
 	@Test
 	void testCheckKingdomsWon() {
